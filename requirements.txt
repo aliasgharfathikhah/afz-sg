@@ -1,0 +1,7 @@
+telebot
+opencv-python-headless
+Pillow
+pywin32
+psutil
+plyer
+win10toast
