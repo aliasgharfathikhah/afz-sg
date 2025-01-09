@@ -86,3 +86,5 @@ Contributions are welcome! Follow these steps to contribute:
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE).
 
+> **Note:** The `CHAT_ID` field in the `settings.txt` file does not require manual input. When the application receives a message through the Telegram bot, it automatically detects and fills the `CHAT_ID` field with the appropriate value. Users only need to configure other settings like `BOT_TOKEN` and `AUTHORIZED_USERNAME`.
+
